@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[requires]
+python_version = "3.7"
+
+[packages]
+hug = '==2.4.8'
+gunicorn = '==19.9.0'
+
+[dev-packages]
+pytest= '==4.3.0'
+flake8 = "*"

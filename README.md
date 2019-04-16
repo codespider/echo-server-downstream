@@ -1,1 +1,1 @@
-# echo-server-downstream
+# echo-server-proxy
